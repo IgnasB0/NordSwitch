@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1713889134 source:c:\users\ibuje\documents\c++\nordswitch\main.cpp
+	<iostream>
+	"Debugger.h"
+	<string>
+
+1713887888 c:\users\ibuje\documents\c++\nordswitch\include\debugger.h
+	<string>
+
+1713888857 source:c:\users\ibuje\documents\c++\nordswitch\src\debugger.cpp
+	"Debugger.h"
+	<fstream>
+	<iostream>
+	<string>
+
